@@ -1,0 +1,38 @@
+https://www.youtube.com/watch?v=I4kJKnu6_jc
+Desarrollando Clon de Github con Javascript Orientado a Objetos, Nodejs, Webpack, Bootstrap 4 y más
+
+
+En este Tutorial vamos a desarrollar una aplicación que se basa en la página de Perfil de Github, utilizaremos los datos reales de este sitio web a través de su API en nuestra aplicación del Frontend desarrollada utilizando Javascript Orientado a Objetos, más sus nuevas características de Ecmascript como async/await, o fetch.
+
+Ademas, para crear nuestro entorno de desarrollo Utilizaremos Nodejs, Webpack, bootstrap4, animate.css, font awesome y otras herramientas para tener una aplicación profesional al final.
+
+CÓDIGO FINAL DEL PROYECTO:
+https://github.com/FaztTech/github-cl...
+
+CURSO DE GIT
+https://youtu.be/HiXLkL42tMU
+
+CURSO VISUAL STUDIO CODE
+https://youtu.be/zbycB-Yetb0
+
+CURSO DE NODEJS
+https://youtu.be/BhvLIzVL8_o
+
+VISITA MI SITIO WEB PARA MÁS CURSOS Y TUTORIALES
+http://www.faztweb.com
+http://blog.faztweb.com
+
+FAZT CODE - YOUTUBE:
+https://www.youtube.com/channel/UCMn2...
+
+TWITTER
+http://twitter.com/fazttech
+
+INSTAGRAM
+https://www.instagram.com/fazttech/
+
+FACEBOOK
+http://facebook.com/fazttech
+
+COMUNIDAD EN DISCORD
+https://discord.gg/37PHuNw
