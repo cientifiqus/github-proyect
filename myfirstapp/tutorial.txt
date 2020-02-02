@@ -1,0 +1,49 @@
+https://www.youtube.com/watch?v=Sx_2dOYOtes&list=PLL0TiOXBeDaiMhNhPU1oXMMjYjW1nOBTB&index=5
+
+
+Angular 4| Curso Practico Completo, Desde Cero, Para Principiantes
+
+
+
+¡IMPORTANTE!
+
+Este Curso ha sido Actualizado, te recomiendo Ver este vídeo en lugar de este:
+https://youtu.be/AR1tLGQ7COs
+
+En este curso te voy a enseñar Angular desde Cero, Paso a paso, empezando por instalar el entorno con Node.js, visual studio code, y angular-cli hasta hacer una aplicación de ejemplo con angular y typescript desde cero en el entorno más conocido que es windows.
+
+MÁS VIDEOS DE ANGULAR: https://youtu.be/Sx_2dOYOtes?list=PLL...
+
+** Si has podido Terminar el Curso, Felicitaciones,estaré subiendo más vídeos de Angular pronto, y disculpa por los errores del vídeo, adema si tienes alguna duda o problema no dudes en decirme.
+
+Los Libros en los que me he basado para enseñarte en este Tutorial los puedes adquirir en Amazon:
+
+-  Learning Angular: http://amzn.to/2rXttSb
+-  ngBook: http://amzn.to/2swWVwN
+
+Otros Vídeos Que te Ayudaran:
+- Los Mejores Frameworks Front-End de Javascript: https://goo.gl/Dekt7w
+- Instalación de Node.js: https://goo.gl/6wNQFf
+- Tu primera Pagina Web con Node.js: https://goo.gl/Tds0MZ
+- Como usar la consola de Windows: https://goo.gl/srhpeu
+- Como Instalar Visual Studio Code: https://youtu.be/66r9Gqu7GWY
+Otro editor de Código: https://goo.gl/uxjbuq
+Que Más Puedes desarrollar en Javascript: https://goo.gl/JQJtWn
+Otro tuto de Draw.io: https://goo.gl/fglqbl
+Webs Mostradas en el Video:
+- Nodejs: https://nodejs.org/en/
+- Angular: https://angular.io/
+- Visual Studio Code: https://code.visualstudio.com/
+- Ionic: https://ionicframework.com/
+
+- Post del Blog de Angular: https://goo.gl/zf2sPe
+
+Te invito a unirte a nuestro Discord para cualquier duda, o tema:
+https://discord.gg/37PHuNw
+
+Foro de Preguntas: https://discord.gg/37PHuNw
+Sitio Web: http://www.faztweb.com
+Blog: http://blog.faztweb.com
+Facebook: https://web.facebook.com/FaztTech
+Categoría
+Formación
