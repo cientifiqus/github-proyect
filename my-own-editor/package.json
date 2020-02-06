@@ -1,0 +1,21 @@
+{
+  "name": "my-own-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^8.0.0",
+    "monaco-editor": "^0.19.3",
+    "monaco-loader": "^1.0.0",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5"
+  }
+}

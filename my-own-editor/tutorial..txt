@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=hOU9wNw9rTs&list=PLL0TiOXBeDaiMhNhPU1oXMMjYjW1nOBTB&index=8
+
+
+
+Electron | Aplicaciones de Escritorio en Javascript, Curso Rápido de 30 min
+
+
+
+
+
+
+
+En este vídeo vamos a crear nuestro propio editor de Código con Javascript, al igual que los editores de código Atom o Visual Studio Code, gracias a Electron.js, una propuesta de GIthub para hacer aplicaciones de Escritorio con Tecnología web, con HTML, CSS, Javascript y Mucho más.
+Electron no Fue la primera propuesta para crear aplicaciones de escritorio, con tecnología web, ya existian otras alternativas, como Adobe Air, node webkit tambien llamado nw.js o app.js, pero Electron tiene mucho más actividad en comunidad y podemos encontrar Aplicaciones como Spotify, Slack, Shopify, la aplicacion de Escritorio de Wordpress y muchas más.
+
+Para conocer más de Electron:
+http://blog.faztweb.com/2017/09/aplic...
+
+Facebook: https://web.facebook.com/FaztTech/
+Twitter: https://twitter.com/FaztTech
+Slack: https://goo.gl/n14Xx4
+
+Código: https://github.com/FaztTech/electron-...
+Categoría
+Formación
