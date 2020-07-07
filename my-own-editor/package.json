@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^8.0.0",
+    "electron": "^8.2.4",
     "monaco-editor": "^0.19.3",
     "monaco-loader": "^1.0.0",
     "typescript": "^3.7.5",
